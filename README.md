@@ -8,8 +8,6 @@ A brief description of what this project does and who it's for
 
 ## Demo
 
-Insert gif or link to demo
-
 ## Features
 
 - Feature 1
@@ -25,23 +23,6 @@ Clone the project
 ```bash
   git clone
 ```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Open with VSCode
-
-```bash
-  code .
-```
-
-Open with live server
-
-```bash
-  npm run start
 ```
 
 ## Authors
